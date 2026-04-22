@@ -1,4 +1,5 @@
 ## Hi there 👋
+Llevo 3 años operando en el mercado Forex, especializado en XAU/USD (oro). En ese camino descubrí que para escalar en el mundo financiero necesitaba más que intuición de mercado — necesitaba datos. Hoy estoy por terminar mi certificación como Analista de Datos en TripleTen, combinando ambos mundos hacia un perfil de trading algorítmico.
 
 <!--
 **imjesusgarcia/imjesusgarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
